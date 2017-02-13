@@ -1,0 +1,6 @@
+Tool Finished with exit code 1
+Error in line Number:191: error: cannot find symbol
+					contents.remove(BGRedScreenFridge1h);
+					                ^
+  symbol: variable BGRedScreenFridge1h
+1 error
