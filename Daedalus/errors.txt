@@ -1,0 +1,17 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 542: expected statement.
+    narrator: "While you can move about and be active like you used to, your body resists your every motion."
+            ^
+
+File "game/script.rpy", line 543: expected statement.
+    narrator: "Rai Shimizu, the head medic, told you to stay in bed and get rest, but that ain't you."
+            ^
+
+File "game/script.rpy", line 544: expected statement.
+    narrator: "You'll keep a bandage wrapped around your chest, but you won't let a flesh wound keep you down."
+            ^
+
+Ren'Py Version: Ren'Py 6.99.6.739
